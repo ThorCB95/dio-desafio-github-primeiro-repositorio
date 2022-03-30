@@ -1,3 +1,10 @@
 Link para download do Git: https://git-scm.com/downloads
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Até o momento aprendi do zero o que era o Git e o GitHub, bem como o funcionamento de cada um deles.
+Até então o que eram apenas palavras, agora se tornaram ferramentas que serão essenciais na minha carreira.
+Nunca é tarde para se aprender!
+Então vamos continuar com os estudos!
+
+Assim finalizado o envio do Projeto Git e GitHub. :)
